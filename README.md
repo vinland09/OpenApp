@@ -1,5 +1,3 @@
-Aqui está uma documentação detalhada e explicativa para o código Python que utiliza `subprocess` para abrir um aplicativo. A estrutura é adequada para adicionar a um repositório ou compartilhar com outros desenvolvedores:
-
 ```markdown
 # Script Python: Abrir Aplicativo Usando `subprocess`
 
@@ -78,6 +76,3 @@ abrir_app(notepad_app)
 - Certifique-se de que você tem permissões para acessar e executar o aplicativo.
 
 ---
-
-Se precisar de mais ajuda ou ajustes, é só me avisar! 🚀
-```
